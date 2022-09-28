@@ -59,5 +59,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-  <p align="center"> <a href="https://twitter.com/ahmedakhlaq3" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedakhlaq3 logo=twitter&style=for-the-badge" alt="aahmedakhlaq3" /></a><p align="center"></p>
+  <p align="center"> <a href="https://twitter.com/ahmedakhlaq3" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedakhlaq3? logo=twitter&style=for-the-badge" alt="ahmedakhlaq3" /></a><p align="center"></p>
 </p>
