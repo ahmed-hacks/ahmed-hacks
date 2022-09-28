@@ -45,9 +45,7 @@
 
 <p align='center'>
   
-  <a href="https://wa.link/0kn6yh">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/armghan-ahmad-00358020a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -61,5 +59,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-  <p align="center"> <a href="[https://twitter.com/ahmedakhlaq3](https://twitter.com/ahmedakhlaq3)" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedakhlaq3 logo=twitter&style=for-the-badge" alt="aahmedakhlaq3" /></a><p align="center"></p>
+  <p align="center"> <a href="https://twitter.com/ahmedakhlaq3" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedakhlaq3 logo=twitter&style=for-the-badge" alt="aahmedakhlaq3" /></a><p align="center"></p>
 </p>
