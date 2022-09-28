@@ -46,16 +46,16 @@
 <p align='center'>
   
   
-  <a href="https://www.linkedin.com/in/armghan-ahmad-00358020a/">
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-8578831b8/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/armghan_ahmad_/">
+  <a href="https://www.instagram.com/__ahmed02/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/ahmedakhlaq3">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="mailto:armghanahmedkamboh2@gmail.com">
+  <a href="mailto:ahmed.akhlaq@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
