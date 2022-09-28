@@ -35,9 +35,9 @@
 
 <br/>
 <br>
-<a href="https://github.com//MARkH0R">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MARkH0R&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARkH0R&theme=buefy&layout=compact" />
+<a href="https://github.com//ahmed-hacks">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-hacks&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hacks&theme=buefy&layout=compact" />
 </a>
 
 <br/>
